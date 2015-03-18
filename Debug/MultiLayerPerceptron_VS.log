@@ -1,0 +1,27 @@
+﻿La génération a démarré 18/03/2015 17:55:49.
+     1>Projet "D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\MultiLayerPerceptron_VS\MultiLayerPerceptron_VS.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\MultiLayerPerceptron_VS.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp mlp.cpp
+         mlp.cpp
+         main.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\Debug\MultiLayerPerceptron_VS.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MultiLayerPerceptron_VS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\Debug\MultiLayerPerceptron_VS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\Debug\MultiLayerPerceptron_VS.lib" /MACHINE:X86 Debug\Apprentissage.obj
+         Debug\Couche.obj
+         Debug\main.obj
+         Debug\mlp.obj
+         Debug\Neurone.obj
+         LINK : D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\Debug\MultiLayerPerceptron_VS.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+         MultiLayerPerceptron_VS.vcxproj -> D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\Debug\MultiLayerPerceptron_VS.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\Debug\MultiLayerPerceptron_VS.exe;#1" /manifest Debug\MultiLayerPerceptron_VS.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\MultiLayerPerceptron_VS.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\MultiLayerPerceptron_VS.lastbuildstate".
+     1>Génération du projet "D:\Mes Documents\GitHub\MultiLayerPerceptron_VS\MultiLayerPerceptron_VS\MultiLayerPerceptron_VS.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.55
